@@ -1,33 +1,20 @@
-## Latest Update
+# 🍔 Food Area
 
-- Improved documentation.
+A premium restaurant website built with React, Vite and Tailwind CSS.
 
-# 🍽️ Food Area
+## Features
 
-A premium modern restaurant website built with React, Vite, Tailwind CSS, and Framer Motion.
+- Responsive UI
+- Beautiful Animations
+- Online Food Ordering
 
-## ✨ Features
+## Tech Stack
 
-- Premium UI/UX
-- Fully Responsive Design
-- Smooth Animations
-- Modern Restaurant Landing Page
-- Interactive Food Menu
-- Search Functionality
-- Shopping Cart
-- Wishlist
-- Beautiful Hero Section
-
-## 🛠️ Tech Stack
-
-- React.js
-- Vite
+- React
+- TypeScript
 - Tailwind CSS
 - Framer Motion
-- Lucide React
 
-## 🚀 Getting Started
+## Author
 
-```bash
-npm install
-npm run dev
+Thirusenthilkumar C
