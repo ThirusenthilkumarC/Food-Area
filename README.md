@@ -1,3 +1,7 @@
+## Latest Update
+
+- Improved documentation.
+
 # 🍽️ Food Area
 
 A premium modern restaurant website built with React, Vite, Tailwind CSS, and Framer Motion.
