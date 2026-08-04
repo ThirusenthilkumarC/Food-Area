@@ -20,6 +20,22 @@ export const Hero = () => {
           <button className="border border-white hover:bg-white hover:text-black px-8 py-3 rounded-full font-semibold transition">
             View Menu
           </button>
+          <div className="mt-12 grid grid-cols-3 gap-8 text-center">
+  <div>
+    <h2 className="text-3xl font-bold text-orange-500">50K+</h2>
+    <p className="text-gray-400">Happy Customers</p>
+  </div>
+
+  <div>
+    <h2 className="text-3xl font-bold text-orange-500">120+</h2>
+    <p className="text-gray-400">Food Items</p>
+  </div>
+
+  <div>
+    <h2 className="text-3xl font-bold text-orange-500">4.9⭐</h2>
+    <p className="text-gray-400">Customer Rating</p>
+  </div>
+</div>
         </div>
       </div>
 
